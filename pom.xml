@@ -165,5 +165,5 @@
   <prerequisites>
     <maven>3.0.3</maven>
   </prerequisites>
-
+  <finalName>SAMPLEJAR</finalName>
 </project>
