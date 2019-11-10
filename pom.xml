@@ -110,6 +110,7 @@
         <version>8.0.0.M1</version>
       </plugin>
     </plugins>
+    <finalName>SAMPLEJAR</finalName>
   </build>
 
   <dependencies>
@@ -165,5 +166,5 @@
   <prerequisites>
     <maven>3.0.3</maven>
   </prerequisites>
-  <finalName>SAMPLEJAR</finalName>
+  
 </project>
