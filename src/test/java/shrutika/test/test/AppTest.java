@@ -15,6 +15,6 @@ public class AppTest
     @Test
     public void shouldAnswerWithTrue()
     {
-    	assertEquals( 7,App.sample(8) );
+    	assertEquals( 7,App.sample(7) );
     }
 }
